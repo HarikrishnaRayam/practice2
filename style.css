@@ -78,6 +78,7 @@ body{
     padding: 0 20px;
     text-decoration: none;
     /* border-radius: 10px; */
+    text-align: center;
 }
 
 *{
@@ -96,4 +97,16 @@ body{
 
 .luxury .btn{
     margin-top: 7px;
+}
+
+.sedans .btn a{
+    color: hsl(31, 77%, 52%);
+}
+
+.suvs .btn a{
+    color: hsl(184, 100%, 22%);
+}
+
+.luxury .btn a{
+    color: hsl(179, 100%, 13%);
 }
